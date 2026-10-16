@@ -1,4 +1,1 @@
-ФИО: Veryasov Nikita and Daniil Nep
-Группа: 09.07.34
-Дисциплина: idk
-Практическая работа по Git выполнена.
+Name: Nikita Ver and Daniil Nep/nGroup: 09.07.34/nVivod: Mi nauchilis mnogomu.
