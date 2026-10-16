@@ -1,1 +1,3 @@
-Name: Nikita Ver and Daniil Nep/nGroup: 09.07.34/nVivod: Mi nauchilis mnogomu.
+Имя: NEP AND VER
+Группа: 090734
+В Git я научился создавать репозитории, работать с ветками и отменять коммиты Z DAYN.
